@@ -1,9 +1,9 @@
-<h2 align="center">Mohsin Ali</h2>
+<h2 align="center">Mohsin Ali<\h2>
 
 <h3 align="center">Full-Stack MERN Developer | Exploring AI 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000080&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;Building+Full-Stack+Web+Applications;MongoDB+%7C+Express.js+%7C+React.js+%7C+Node.js;Exploring+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000080&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Web+Applications;Exploring+AI+Integration" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,13 +22,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science graduate from COMSATS University.
-- 💻 Focused on full-stack web development using the MERN stack.
-- 🚀 Building web applications with React.js, Node.js, Express.js, and MongoDB.
-- 🔌 Interested in REST APIs, authentication, and database design.
-- 🤖 Exploring AI integration into web applications.
-- 🌱 Continuously learning and improving my development skills.
-- 🎯 Looking for junior MERN Stack Developer and software development opportunities.
+Hi, I'm **Mohsin Ali**, a Full-Stack MERN Developer from Okara, Pakistan. I build web applications using modern technologies like React.js, Node.js, Express.js, and MongoDB. I'm passionate about creating practical software solutions and exploring how AI can be integrated into web applications.
+
+- 🎓 Computer Science Graduate, COMSATS University
+- 💻 Focused on Full-Stack Development with the MERN Stack
+- 🤖 Exploring AI integration and intelligent features for web applications
+- 💼 Open to Junior MERN Stack Developer roles, software development opportunities, and internships
 
 ## 🛠️ Tech Stack
 
@@ -46,25 +45,26 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-🚀 Featured Project
+## 🚀 Featured Project
 
-📋 Task Management Application
+### 📋 Task Management Application
 
-A web application designed to help users organize and manage their tasks efficiently.
+A task management web application designed to help users organize and manage their tasks efficiently.
 
-✅ Create, edit, complete, and delete tasks.
+- ✅ Create, edit, complete, and delete tasks.
+- 🔍 Search and filter tasks.
+- 🎯 Organize tasks by priority and due date.
+- 🗄️ Backend and database integration.
+- 🌐 Deployed web application.
 
-🔍 Search and filter tasks.
-
-🎯 Organize tasks by priority and due date.
-
-🗄️ Backend and database integration.
-
-🌐 Deployed web application.
-
-🌐 Live Demo | 💻 Source Code
-
-
+<p>
+  <a href="https://task-management-app-weld-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-000080?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/ch-mohsin-pervaiz/task-management-app">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" />
+  </a>
+</p>
 
 ## 📊 Most Used Languages
 
