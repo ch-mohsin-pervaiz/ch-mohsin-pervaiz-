@@ -1,4 +1,4 @@
-<h1 align="center">Mohsin Ali</h1>
+# Mohsin Ali
 
 <h3 align="center">Full-Stack MERN Developer | Exploring AI 🤖</h3>
 
@@ -13,16 +13,15 @@
 </p>
 
 ---
----
 
 ## 👨‍💻 About Me
 
 I'm a Computer Science graduate from COMSATS University, Pakistan, focused on building full-stack web applications using the MERN stack.
 
-- 💻 Learning and building with React.js, Node.js, Express.js, and MongoDB
-- 🚀 Developing task management and cricket tournament applications
+- 💻 Building web applications with React.js, Node.js, Express.js, and MongoDB
+- 🚀 Developed and deployed a Task Management Application
 - 🔐 Interested in REST APIs, authentication, and database design
-- 🌱 Improving my backend development and problem-solving skills
+- 🤖 Exploring AI integration in web applications
 - 🎯 Looking for Junior MERN Stack Developer roles and internship opportunities
 
 ## 🛠️ Tech Stack
@@ -47,40 +46,44 @@ I'm a Computer Science graduate from COMSATS University, Pakistan, focused on bu
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Featured Projects
+---
+
+## 🚀 Featured Project
 
 ### 📋 Task Management Application
 
-A React-based task management application designed to organize tasks and track progress.
+A full-stack task management web application built to organize tasks, manage priorities, and track progress.
 
-- Task creation, editing, completion, and deletion
-- Task search, filters, and priority management
-- Working toward a full-stack implementation with authentication and MongoDB
+- ✅ Create, edit, complete, and delete tasks
+- 🔍 Search and filter tasks
+- 🎯 Manage task priorities and due dates
+- 🗄️ Backend and database integration
+- 🌐 Deployed and accessible online
 
-🔗 [Source Code](https://github.com/ch-mohsin-pervaiz/Todo-)
+<p>
+  <a href="https://task-management-app-weld-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-000080?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/ch-mohsin-pervaiz/Todo-">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
-### 🏏 Village Cricket Management System
+---
 
-A MERN stack project for managing village cricket teams and tournaments.
+## 📊 Most Used Languages
 
-- User authentication and role-based access
-- Team, tournament, and match management
-- Backend REST APIs using Node.js and Express.js
-- MongoDB database integration
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-mohsin-pervaiz&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
-🔗 [View My GitHub Repositories](https://github.com/ch-mohsin-pervaiz?tab=repositories)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ch-mohsin-pervaiz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ch-mohsin-pervaiz&layout=compact&theme=tokyonight&hide_border=true)
+---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/chmohsinpervaiz
-- 💻 GitHub: https://github.com/ch-mohsin-pervaiz
-- 📧 Email: chmohsinpervaiz@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/chmohsinpervaiz](https://linkedin.com/in/chmohsinpervaiz)
+- 💻 GitHub: [github.com/ch-mohsin-pervaiz](https://github.com/ch-mohsin-pervaiz)
+- 📧 Email: [chmohsinpervaiz@gmail.com](mailto:chmohsinpervaiz@gmail.com)
 
 ---
 
