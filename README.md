@@ -46,26 +46,25 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-## 🚀 Featured Project
+🚀 Featured Project
 
-### 📋 Task Management Application
+📋 Task Management Application
 
-A task management web application designed to help users organize and manage their tasks efficiently.
+A web application designed to help users organize and manage their tasks efficiently.
 
-- ✅ Create, edit, complete, and delete tasks.
-- 🔍 Search and filter tasks.
-- 🎯 Organize tasks by priority and due date.
-- 🗄️ Backend and database integration.
-- 🌐 Deployed web application.
+✅ Create, edit, complete, and delete tasks.
 
-<p>
-  <a href="https://task-management-app-weld-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-000080?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/ch-mohsin-pervaiz/task-management-app">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" />
-  </a>
-</p>
+🔍 Search and filter tasks.
+
+🎯 Organize tasks by priority and due date.
+
+🗄️ Backend and database integration.
+
+🌐 Deployed web application.
+
+🌐 Live Demo | 💻 Source Code
+
+
 
 ## 📊 Most Used Languages
 
