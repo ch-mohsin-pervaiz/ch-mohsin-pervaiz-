@@ -1,17 +1,18 @@
-# Mohsin Ali 
+<h1 align="center">Mohsin Ali</h1>
 
-### ### Full-Stack MERN Developer | Exploring AI 🤖
+<h3 align="center">Full-Stack MERN Developer | Exploring AI 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+MERN+Stack+Developer;Building+Full-Stack+Web+Applications;Learning+Backend+Development;Exploring+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000080&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;Building+Full-Stack+Web+Applications;MongoDB+%7C+Express.js+%7C+React.js+%7C+Node.js;Exploring+AI+Integration" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ch-mohsin-pervaiz">GitHub</a> •
   <a href="https://linkedin.com/in/chmohsinpervaiz">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  <a href="https://github.com/ch-mohsin-pervaiz">GitHub</a> •
+  <a href="mailto:chmohsinpervaiz@gmail.com">Email</a>
 </p>
 
+---
 ---
 
 ## 👨‍💻 About Me
@@ -22,7 +23,7 @@ I'm a Computer Science graduate from COMSATS University, Pakistan, focused on bu
 - 🚀 Developing task management and cricket tournament applications
 - 🔐 Interested in REST APIs, authentication, and database design
 - 🌱 Improving my backend development and problem-solving skills
-- 🎯 Looking for Junior MERN Stack Developer and Software Engineer opportunities
+- 🎯 Looking for Junior MERN Stack Developer roles and internship opportunities
 
 ## 🛠️ Tech Stack
 
