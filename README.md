@@ -1,5 +1,4 @@
-# ch-mohsin-pervaiz-
-# Hi, I'm Mohsin Ali 👋
+# Mohsin Ali 
 
 ### ### Full-Stack MERN Developer | Exploring AI 🤖
 
@@ -23,7 +22,7 @@ I'm a Computer Science graduate from COMSATS University, Pakistan, focused on bu
 - 🚀 Developing task management and cricket tournament applications
 - 🔐 Interested in REST APIs, authentication, and database design
 - 🌱 Improving my backend development and problem-solving skills
-- 🎯 Looking for Junior MERN Stack Developer and Software Engineer Internship opportunities
+- 🎯 Looking for Junior MERN Stack Developer and Software Engineer opportunities
 
 ## 🛠️ Tech Stack
 
