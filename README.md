@@ -1,4 +1,4 @@
-# Mohsin Ali
+<h2 align="center">Mohsin Ali</h2>
 
 <h3 align="center">Full-Stack MERN Developer | Exploring AI 🤖</h3>
 
@@ -25,7 +25,6 @@
 - 🎓 Computer Science graduate from COMSATS University.
 - 💻 Focused on full-stack web development using the MERN stack.
 - 🚀 Building web applications with React.js, Node.js, Express.js, and MongoDB.
-- 📋 Developed a Task Management Application.
 - 🔌 Interested in REST APIs, authentication, and database design.
 - 🤖 Exploring AI integration into web applications.
 - 🌱 Continuously learning and improving my development skills.
