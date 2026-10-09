@@ -1,4 +1,4 @@
-<h2 align="center">Mohsin Ali<\h2>
+<h2 align="center">Mohsin Ali
 
 <h3 align="center">Full-Stack MERN Developer | Exploring AI 🤖</h3>
 
