@@ -1,3 +1,4 @@
+
 <h2 align="center">Mohsin Ali
 
 <h3 align="center">Full-Stack MERN Developer | Exploring AI 🤖</h3>
@@ -45,7 +46,23 @@ Hi, I'm **Mohsin Ali**, a Full-Stack MERN Developer from Okara, Pakistan. I buil
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🏏 Cricket Tournament Management System
+
+A MERN stack web application designed to manage cricket tournaments, teams, players, and match schedules efficiently.
+
+- 🏆 Manage cricket tournaments.
+- 👥 Organize teams and players.
+- 🏏 Manage matches and schedules.
+- 📊 Support tournament management and tracking.
+- 🗄️ MongoDB database and backend integration.
+
+<p>
+  <a href="https://github.com/ch-mohsin-pervaiz/cricket-tournament-management-system">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Cricket Tournament Management System Source Code" />
+  </a>
+</p>
 
 ### 📋 Task Management Application
 
